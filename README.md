@@ -9,15 +9,15 @@
 ```
 git clone https://github.com/cengizcmataraci/kodluyoruzilkrepo.git
 ```
-*usage*
+## *usage*
 Projeyi cloneladıktan sonra Visual Studio Code programında açınız.
 Linux için:
 ```
 cd kodluyoruzilkrepo
 code .
 ```
-*contributing*
+## *contributing*
 Pull requestler kabul edilir. Büyük değişiklikler için, lütfen önce neyi değiştirmek istediğinizi tartışmak için bir konu açınız.
 
-*license*
+## *license*
 [MIT](https://choosealicense.com/licenses/mit/)
