@@ -1,6 +1,6 @@
 DENEME 
 deneme 
 =======
-##deneme
-#kodluyoruzilkrepo
+## deneme
+# kodluyoruzilkrepo
 
