@@ -1,4 +1,4 @@
 
-## *kodluyoruz ilk repo*
+## *kodluyoruzilkrepo*
 
 
