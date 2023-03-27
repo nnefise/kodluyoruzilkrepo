@@ -1,7 +1,4 @@
-DENEME 
-deneme 
-=======
-## deneme
-# kodluyoruzilkrepo
 
-- 12
+## *kodluyoruz ilk repo*
+
+
